@@ -1,0 +1,11 @@
+Column 13,1. What type of software is this codebase primarily designed to help developers build? (Single Choice),2. Which of the following descriptions is correct about different components of this codebase? (Choose all that apply),3.What is the purpose of the Management Module in this codebase? (Choose all that apply),4. What is the relationship between the Management Module and the Checks Module? (Choose all that apply),5. What is the relationship between the management Module and the Serializers Module? (Choose all that apply),6. What is the primary role of BaseCommand in this codebase’s Management Module? (Single Choice),7. Which of the following are correct descriptions of BaseCommand (within base.py) in this codebase? (Choose all that apply),8. What is the primary role of Command (within makemigrations.py) in Django’s Management Module? (Single Choice),9. What is the relationship between BaseCommand (within base.py) and Command (within makemigrations.py)? (Choose all that apply),Score
+P1,B,"A, D, E","B, E","E, F",C,B,"A, C, D",B,"A, B",
+P2,B,"D, E","B, C, E","B, E","A, E",B,"A, C, D",C,"A, B, E",
+P3,B,"B, E","B, E","B, E","B, E",B,"A, C, D",D,"B, C",
+P4,B,"B, E","B, E","B, E, F","A, E",B,"A, C, D",D,B,
+P5,B,"D, E, F","B, D, E","B, E, F","A, D, E",B,"A, C, D, E",D,"A, B, C, E",
+P6,F,E,B,"D, E, F","A, D",B,A,E,E,
+P7,B,G,"B, C","D, E, F","A, B, D, E",C,"A, C, D",D,"B, C, E",
+P8,B,"A, D, E","B, E","A, B, E","A, D, E",B,E,A,"B, C, E",
+P9,B,"A, B, E","B, C, E","A, E, F",C,B,"A, C, D",,,
+P10,B,"D, E","B, E","B, E, F",E,B,"A, C, D",A,"B, C, E",

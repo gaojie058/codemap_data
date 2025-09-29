@@ -1,0 +1,11 @@
+Column 13,1. What type of software is Task1 primarily designed to help developers build? (Single Choice),2. What are the key components of this codebase? (Choose all that apply),"3. Which description is correct for the ""Main Application"" component and its relationship with other components? (Choose all that apply)","4. What is the purpose of “applications.py”, and what is its key function? (Choose all that apply)",5. What is the relationship between “applications.py” and “API Key Authentication”? (Choose all that apply),6. What is the relationship between the“applications.py” and CORS.Class under the “Middleware” Module? (Single Choice),7. What are the components under the Security Module? (Choose all that apply),"8. Under the Security module, what is the purpose of OAuth2? (Single Choice)","9. Under the Security module, what is correct about the description of api_key.py file? (Choose all that apply)"
+P1,C,G,"A, B, E","B, D","A, D",A,"A, B",A,"B, E"
+P2,C,"A, C, D, F",G,"B, D",A,A,"A, B",C,"A, E"
+P3,C,"A, C, D, E, F","A, B, E","B, D","A, D",A,"A, B, C, D, E",C,"B, E"
+P4,C,"A, C, D, F","A, B, E","B, D","A, D",A,"A, B, D, E",C,"B, E"
+P5,C,"A, C, D, F","A, D, E","B, D","A, D",A,"A, B",C,
+P6,C,"A, C, D, F","A, B, D, E","B, D","A, C",D,"A, B",C,"B, E"
+P7,C,"A, C, D, F",F,B,"C, D",A,"A, B",C,"B, E"
+P8,C,"A, C",G,D,F,,"A, B",A,
+P9,C,"A, C, D, F","A, B",D,"A, D",A,"A, B",C,B
+P10,C,"A, C, D","A, B, E","B, D","A, D",A,"A, B",C,"B, E"

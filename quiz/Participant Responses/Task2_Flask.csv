@@ -1,0 +1,11 @@
+Column1,1. What type of software is Task2 primarily designed to help developers build? (Single Choice),2. What are the key components of this codebase? (Choose all that apply),"3. What is the role of the App component (i.e., location of app.py) in this codebase? (Choose all that apply)",4. Which description is correct for the APP core component and its relationship with other components in this codebase? (Choose all that apply),5. What is the relationship between the App Module and the Config Module in this codebase? (Choose all that apply),6. What is the role of the Blueprint Module in this codebase? (Choose all that apply),7. What is the relationship between the App Module and the Blueprint Module in this codebase? (Choose all that apply),8. What is the purpose of  register() to Blueprint Module? (Choose all that apply),"9. Under the Blueprint module, what is the purpose of get_send_file_max_age() in this codebase? (Choose all that apply)"
+P1,B,"A, B, C, G","C, D","B, D","A, B, C, D, E",B,E,D,A
+P2,B,"A, B, C, G","B, C, D","B, D","A, C, D","B, D, E","A, B, D","A, B, C, E","A, B"
+P3,B,"B, C, E, F, G","C, D, E","B, D","B, F","D, E",B,"A, C, E",A
+P4,B,"B, C, G","C, D","C, D","A, B, C, E","D, E","D, E","A, C, E","A, C, D"
+P5,B,"A, B, C, G","C, D","B, D","A, B, C, D, E","B, D, E","B, D","A, C, E","A, B"
+P6,B,"A, B, C, G","C, D","B, D","A, B, D, E","B, D, E","A, B, D","A, C, D","A, C, D"
+P7,C,"A, B, C, G","A, B, C, D","B, D","B, C, D, E",H,G,G,G
+P8,B,"A, B, C, G",D,A,"A, E","B, D","A, B","A, E","B, D"
+P9,B,"A, B, C, F, G",D,"B, D","A, B, D, E","B, D, E, F","B, D","A, C, E",A
+P10,B,"A, B, C, G","C, D","A, B, D","B, C, D, E","B, E","B, D",A,"A, D"
