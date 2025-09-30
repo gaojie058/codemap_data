@@ -1,0 +1,1 @@
+Our qualitative analysis is conducted using Atlas.ti, a professional software that allows users to perform qualitative coding. The results are presented in a PDF format, **formative-study-analysis-report**, which includes categories showing the linkage between original quotes and our qualitative codes.
